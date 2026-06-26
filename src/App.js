@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<HomeView />} />
-        <Route path="/sub1" element={<Sub1 />} />       
+        <Route path="/sub1" element={<Sub1 />}/>    
       </Routes>
     </BrowserRouter>
   );
